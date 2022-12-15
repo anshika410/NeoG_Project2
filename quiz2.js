@@ -20,9 +20,9 @@ function quiz(question, answer){
     console.log("--------------");
   }
 }
-quiz("Q-1 What is the thing you are passionate about? ","Cricket");
-quiz("Q- 2 Who is your Ideal? ", "Virat Kohli");
-quiz("Q-3 What do you do for your goal? ","RgularPractice");
-quiz("Q-4 Your goal belongs to which field? ","Sports");
-quiz("Q-5 From which stage of your age you have this passion?","Childhood");
+quiz("Q-1 who won the Bharat-Ratna award in singing? ","Lata Mangeshkar");
+quiz("Q- 2 Lata Mangeshkar's first song is dedicated to... ", "Mother");
+quiz("Q-3 When she sang her first song? ","1943");
+quiz("Q-4 which song is on top trending in 2022? ","Shrivalli");
+quiz("Q-5 Which female singer is on top in the world?","Taylor Swift");
 console.log("Congratulations,Your final score is: "+score);
